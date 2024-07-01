@@ -1,5 +1,11 @@
 
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(§Û™£ÿÿÿÿÿ8«Êëö†2J$c5acfe4d-a536-4a84-98d2-7505bfacd448
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(§Û™£ÿÿÿÿÿ8›öí÷†2J$0a650e47-c6c3-42d8-aa4e-076f867acbb5
+ˆ	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(…€ï8œöí÷†2J$834d0b8c-a2ca-4098-91f3-1a3c906759b2
+ˆ	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(‘·òæ8œöí÷†2J$52b879e8-e00f-43b3-a297-e09088a42aa7
+ˆ	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(ªîˆŸ8œöí÷†2J$ef2facce-289c-4101-945b-7336126f12ce
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8­Êëö†2J$33d1f6a5-78af-41dc-a18f-364ad6db0401
-r	java:S106"+Replace this use of System.out by a logger.(Ú§ÈÖúÿÿÿÿ8³Êëö†2J$9f6d7fe2-1c49-4d7e-bca8-e524ac88c6c8
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8öí÷†2J$4146b113-4b1e-40dd-a285-372db667faaf
+r	java:S106"+Replace this use of System.out by a logger.(Ú§ÈÖúÿÿÿÿ8 öí÷†2J$cc175b8b-a0de-41ca-a01e-bb693d3acf6d
+r	java:S106""+Replace this use of System.out by a logger.(Ú§ÈÖúÿÿÿÿ8¡öí÷†2J$0757bf5c-8772-4240-b2cc-e4cb623e3107
+r	java:S106/"+Replace this use of System.out by a logger.(Ú§ÈÖúÿÿÿÿ8¢öí÷†2J$fe6c05b8-08be-445d-846c-bd11663ea657
+r	java:S106;"+Replace this use of System.out by a logger.(Ú§ÈÖúÿÿÿÿ8£öí÷†2J$62fa2404-185d-4149-9de3-f71860c6b9e8
